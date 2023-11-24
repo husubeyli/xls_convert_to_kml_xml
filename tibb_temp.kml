@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+	<Document>
+		<name>
+			tibb_temp
+		</name>
+		<Placemark>
+			<name>
+				temp_eyyub01
+			</name>
+			<description color="99307b19" width="80.0">
+				Ad: Azərbaycan Respublikası Səhiyyə Nazirliyi
+				Region: Bakı
+				Tip: Səhiyyə İdarələri
+				Ünvan: Nəsimi rayonu, M.Mirqasımov küçəsi  1A
+				Tel: (012) 441-26-03
+				Rəhbər: Oqtay Şirəliyev
+				Növ: dövlet
+			</description>
+			<Point>
+				<coordinates>
+					32.123,32.123,0
+				</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
