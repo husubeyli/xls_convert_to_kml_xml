@@ -2,7 +2,7 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 
 # Excel dosyasının yolu
-excel_file_path = './All_Coordinates.xlsx'
+excel_file_path = './this.xlsx'
 
 # Excel dosyasını oku
 df = pd.read_excel(excel_file_path)
