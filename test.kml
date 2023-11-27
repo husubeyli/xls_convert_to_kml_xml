@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>
+			tibb_temp
+		</name>
+		<Placemark>
+			<name>
+				Azərbaycan Respublikası Səhiyyə Nazirliyi
+			</name>
+			<description>
+				&lt;h2&gt;Azərbaycan Respublikası Səhiyyə Nazirliyi&lt;/h2&gt;
+				&lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Bakı&lt;/p&gt;
+				&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Səhiyyə İdarələri&lt;/p&gt;
+				&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; Nəsimi rayonu, M.Mirqasımov küçəsi  1A&lt;/p&gt;
+				&lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 5262026&lt;/p&gt;
+				&lt;p&gt;&lt;strong&gt;Director:&lt;/strong&gt; Elvin Husubayli&lt;/p&gt;
+				&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; dovlet&lt;/p&gt;
+			</description>
+			<Point>
+				<coordinates>
+					23.23,1.23,0
+				</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
